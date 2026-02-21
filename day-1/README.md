@@ -34,3 +34,16 @@ Take 3 number from the user by compaire then find out larger number.
 - float()
 - Modulus operator >, =, <
 - if-else condition
+
+
+
+## Problem 3: FizzBuzz
+- If divisible by 3 → print "Fizz" 
+- If divisible by 5 → print "Buzz"
+- If divisible by both → print "FizzBuzz"
+
+
+### File Name 
+- problem_3_1.py
+- problem_3_2.py
+- problem_3_3.py
