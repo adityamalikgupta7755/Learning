@@ -55,3 +55,13 @@ Take 3 number from the user by compaire then find out larger number.
 - problem_4_1.py
 - problem_4_2.py
 - problem_4_3.py
+
+## Problem 5: Count Vowels
+
+### File Name 
+- problem_5_1.py
+- problem_5_2.py
+
+
+
+
